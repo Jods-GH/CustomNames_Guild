@@ -3,8 +3,8 @@
 ## Version: @project-version@
 ## Notes: Adds Guild support for CustomNames
 ## Author: Jods
-## X-Curse-Project-ID: 
-## X-Wago-ID: 
+## X-Curse-Project-ID: 1116103
+## X-Wago-ID: qKQxr16x
 ## RequiredDeps: CustomNames
 ## OptionalDeps: ViragDevTool
 
