@@ -1,0 +1,14 @@
+## Interface: 110002
+## Title: CustomNames_Guild
+## Version: @project-version@
+## Notes: Adds Guild support for CustomNames
+## Author: Jods
+## X-Curse-Project-ID: 
+## X-Wago-ID: 
+## RequiredDeps: CustomNames
+## OptionalDeps: ViragDevTool
+
+#Libs
+embeds.xml
+
+CustomNames_Guild.lua
