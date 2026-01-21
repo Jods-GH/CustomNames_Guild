@@ -1,4 +1,4 @@
-## Interface: 110207, 120000, 120001
+## Interface: 120000, 120001
 ## Title: CustomNames_Guild
 ## Version: @project-version@
 ## Notes: Adds Guild support for CustomNames
